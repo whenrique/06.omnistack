@@ -1,0 +1,13 @@
+Criando a base da aplicação
+- Node e non blocking io
+- Ordem de pacotes e serviços
+    - express (8m30)
+    - nodemon (20m10)
+    - mongodb atlas (23m00)
+    - mongoose (25m40)
+    - path (42m15)
+    - multer (41m25)
+    - crypto (45m42)
+
+- Campo virtual
+    - Um campo que não existe no schema, somente do lado do código.
